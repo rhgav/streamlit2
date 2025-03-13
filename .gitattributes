@@ -1,0 +1,4 @@
+Debug/Group4.pdb filter=lfs diff=lfs merge=lfs -text
+Debug/cocos_engine.lib filter=lfs diff=lfs merge=lfs -text
+Debug/cocos_engine.pdb filter=lfs diff=lfs merge=lfs -text
+Debug/v8.dll filter=lfs diff=lfs merge=lfs -text
